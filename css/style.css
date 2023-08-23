@@ -103,7 +103,7 @@ body {
 
 @media (min-height: 750px) {
     #FaqCard {
-        transform: translate(-50%, -50%);
+        transform: translate(-50%, -45%);
     }
 }
 
